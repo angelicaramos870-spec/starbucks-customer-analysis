@@ -14,6 +14,9 @@ This project analyzes Starbucks customer ordering patterns (2024–2025) to unco
 - Most purchased products are **Refreshers and Tea**
 - Mobile app users show higher spending behavior
 
+## Data Source
+- Starbucks Customer Ordering Patterns Dataset from Kaggle
+  
 ## Tools Used
 - Python (Pandas, Statsmodels)
 - Power BI
